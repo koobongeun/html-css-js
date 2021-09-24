@@ -1,0 +1,37 @@
+#container {
+      width: auto;
+      height: 1200px;
+      justify-content: center;
+      align-items: center;
+}
+
+.header{
+      width: auto;
+      height: 200px;
+      background-color: black;
+      border-radius: 5%;
+}
+
+.main{
+      display: flex;
+}
+.nav{
+      width: 30%;
+      height: 500px;
+      background-color: red;
+      border-radius: 5%;
+}
+
+.article{
+      width: 70%;
+      height: 500px;
+      background-color: yellow;
+      border-radius: 5%;
+}
+
+.footer{
+      width: auto;
+      height: 100px;
+      background-color: brown;
+      border-radius: 5%;
+}
